@@ -1,7 +1,8 @@
-package com.siabul.cleanarch
+package com.siabul.cleanarch.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.siabul.cleanarch.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
